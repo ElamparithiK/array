@@ -21,8 +21,12 @@ public class Sun {
 	int aveg=sum/10;
 	System.out.println(aveg);
 	
+<<<<<<< HEAD
 	System.out.println("2nd coding Elam from Master");
 	
+=======
+	System.out.println("1st coding arjun from master ");
+>>>>>>> 4ab629c165f4b8f0cbc917630726478c8b55cae8
 	}
 
 }
