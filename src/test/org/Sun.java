@@ -20,6 +20,9 @@ public class Sun {
 	
 	int aveg=sum/10;
 	System.out.println(aveg);
+	
+	System.out.println("2nd coding Elam from Master");
+	
 	}
 
 }
